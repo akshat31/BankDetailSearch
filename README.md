@@ -1,2 +1,0 @@
-# ReactProject
-my project
